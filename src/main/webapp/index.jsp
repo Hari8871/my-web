@@ -20,41 +20,14 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   h1 {
-    color: #333;
+    color: green;
     text-align: center;
-  }
-  p {
-    color: #666;
-    line-height: 1.6;
-  }
-  .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-  }
-  .btn:hover {
-    background-color: #0056b3;
   }
 </style>
 </head>
 <body>
 <div class="container">
-  <h1>AWS DevOps Training by Pavan</h1>
-  <p>Welcome to our AWS DevOps training session! We'll cover various aspects of AWS and DevOps practices to enhance your skills.</p>
-  <p>Topics include:</p>
-  <ul>
-    <li>AWS Services Overview</li>
-    <li>Continuous Integration & Deployment</li>
-    <li>Infrastructure as Code</li>
-    <li>Monitoring & Logging</li>
-    <li>And much more...</li>
-  </ul>
-  <p>Ready to start your journey? Enroll now!</p>
-  <a href="#" class="btn">Enroll Now</a>
+  <h1>Hari New Project</h1>
 </div>
 
 <script>
