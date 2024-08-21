@@ -29,22 +29,7 @@
 <div class="container">
   <h1>Hari New Project</h1>
 </div>
-
-<script>
-  console.log("Node.js is integrated!");
-</script>
-
 </body>
 </html>
 
-<p>If you see this page, the nginx web server is successfully installed and
-working. Further configuration is required.</p>
 
-<p>Please do follow me on instagram
-<a href="https://www.instagram.com/"www.instagram.com</a>.<br/>
-Commercial support is available at
-<a href="http://nginx.com/">nginx.com</a>.</p>
-
-<p><em>Thank you -Pavan kalyan.</em></p>
-</body>
-</html>
